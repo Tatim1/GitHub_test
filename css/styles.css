@@ -14,10 +14,7 @@ body {
 
 .tabs {
 	border: 1px solid #660204; /* D3DEE0 */
-	display: inline-block;
-	padding: 0;
-	border-radius: 3px;
-	font-size: 0px;
+	
 }
 
 .tabs li {
