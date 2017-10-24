@@ -41,12 +41,11 @@ body {
 	border: 1px solid #2a80ae;
 }
 
-.tabs li:not(:first-of-type):not(last-of-type) a {
-	margin-left: 0px;
-	margin-right: 0px;
+.tabs (last-of-type) a {
+	
 }
 
 .tabs li:active a {
 	color: #fff;
-	background-color: #2a80ae;
+	background-color: red;
 }
